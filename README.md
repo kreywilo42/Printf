@@ -1,2 +1,1 @@
-# printf
-grey
+ALX printf project
